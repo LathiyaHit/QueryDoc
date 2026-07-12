@@ -1,0 +1,1 @@
+## QueryDoc : Real-Time Voice & Text RAG Assistant

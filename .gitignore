@@ -1,0 +1,5 @@
+.conda
+.env
+venv
+.github
+.vscode

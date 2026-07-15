@@ -1,0 +1,8 @@
+# ─────────────────────────────────────────────
+# Celery worker service dependencies
+# ─────────────────────────────────────────────
+-r requirements.txt
+
+celery[redis]==5.4.0
+kombu==5.3.7
+billiard==4.2.1
